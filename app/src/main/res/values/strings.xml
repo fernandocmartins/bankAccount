@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Santander - Bank Test</string>
+    <string name="item_list_payment_text">Pagamento</string>
+    <string name="btn_login_text">Logar</string>
+    <string name="client_login">Cliente</string>
+    <string name="client_password">Senha</string>
+    <string name="balance_text">Saldo</string>
+    <string name="account_text">Conta</string>
+    <string name="invalid_password_text">Obrigatório a senha conter um caractere especial e uma letra maiúscula!</string>
+    <string name="invalid_user_text">Dados inválidos, favor utilizar seu CPF ou e-mail para acesso!</string>
+    <string name="no_connection_text">Não há conexão de internet disponível!</string>
+</resources>
